@@ -6,9 +6,9 @@ describe('QJSelect', () => {
     const wrapper = mount(QJSelect, {
       props: {
         options: [
-          { id: 1, label: 'Option 1' },
-          { id: 2, label: 'Option 2' },
-          { id: 3, label: 'Option 3' },
+          { id: 1, label: 'Option 4' },
+          { id: 2, label: 'Option 5' },
+          { id: 3, label: 'Option 6' },
         ],
         title: 'Select option'
       }
